@@ -1,52 +1,7 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8">
-  <title>国際ふたなり学融合学際研究機構</title>
-  <style>
-    body {
-      font-family: 'Helvetica Neue', sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f4f4f4;
-    }
-    header {
-      background: #3a3a70;
-      color: white;
-      padding: 20px 0;
-      text-align: center;
-    }
-    nav {
-      background: #222;
-      color: white;
-      padding: 10px;
-      text-align: center;
-    }
-    nav a {
-      color: white;
-      margin: 0 15px;
-      text-decoration: none;
-    }
-    .container {
-      padding: 30px;
-      max-width: 900px;
-      margin: auto;
-      background: white;
-    }
-    footer {
-      background: #3a3a70;
-      color: white;
-      text-align: center;
-      padding: 15px;
-      margin-top: 40px;
-    }
-    h1, h2 {
-      color: #3a3a70;
-    }
-  </style>
-</head>
-<body>
-
+  
 <header>
   <h1>国際ふたなり学融合学際研究機構</h1>
   <p>Futanari Studies for a Multidisciplinary Future</p>

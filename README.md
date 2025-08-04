@@ -1,5 +1,3 @@
-# -
-ふたなりの学術研究
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -98,5 +96,6 @@
 
 </body>
 </html>
+
 
 
